@@ -1,0 +1,7 @@
+{
+  "linter": {
+    "enabled": true,
+    "rules": { "recommended": true, "suspicious": { "noImportCycles": "error" } }
+  },
+  "formatter": { "enabled": true }
+}
